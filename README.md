@@ -1,6 +1,3 @@
-VProfile Multi-Tier Java Web App: AWS Native CI/CD Pipeline
-
-📌 Project Overview
 
 This project demonstrates the "Re-platforming" of a multi-tier Java application (VProfile) from a local/on-premise setup to a fully automated AWS Native CI/CD stack. The goal was to eliminate manual deployment overhead and leverage managed services for high availability and scalability.
 
